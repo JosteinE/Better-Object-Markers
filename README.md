@@ -1,2 +1,4 @@
-# Example
-An example greeter plugin
+# Better Object Markers
+
+Mark objects by their IDs
+
